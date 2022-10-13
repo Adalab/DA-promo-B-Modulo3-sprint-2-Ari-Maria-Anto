@@ -1,0 +1,50 @@
+PAIR PROGRAMING INSTAGRAMERS
+
+
+Tenemos un set de datos de los top200 instagramers, y queremos hacer varias visualizaciones para enseñaros los datos que entcontramos aquí. 
+
+
+COSITAS: 
+
+- Queremos copiar el tipo de fuente de instagram ( podemos copiarnos de la visualización que nos hemos descargado de tableau public... la de tyler)
+
+- También es importante seleccionar una gama de colores adecuada con ig. 
+
+- Necesitamos descargar las fotos del top five. 
+
+
+
+VISUALIZACIONES:
+- Presentación de un mapa con lista de parámetros seleccionables. 
+	media y total (nº instagramers por país, nª de likes, nº de followers, % de totales), queremos que el mapa se rellene con colores que completen cada país, y etiquetas que muestren los datos numéricos.
+
+- Wordcloud con las categorías por numero de likes
+
+- Gráfico de barras....
+
+- Perfil con los iconos de ig(copiar de la de tyler) necesitamos las fotos de los top five. 
+
+- Quiero poder pinchar en una foto y que me lleve a su link(como lo tenemos en una columna del dataset, pues espero que no sea muy dificil)
+
+
+
+
+DASHBOARDS:
+- Nos gustaría copiar la idea del ejercicio de ig que nos hemos descargado(el que hemos hemos pasado por whatsapp)
+
+- Queremos que la lista de parámetros cambie las visualizaciones disponibles del dashboard, a la vez. 
+
+- En principio, pensamos que tres visualizaciones están bien (mapa, wordcloud y barras) +  un top five en quesitos. 
+
+- Podríamos separar los datos en un top five, y hacer tres quesitos. Uno con los likes, otro con los followers y otro con los post. 
+
+- Queremos hacer un perfil para el top 3, que imite un perfil de ig(tenemos como plantilla, la visualización que nos hemos descargado de tableau public)
+
+
+
+COMPOSICIÓN GENERAL:
+ 1. Visualización de los datos(3 gráficas: mapa, wordcloud y barras), con lista de parámetros
+ 2. Perfiles (copia de pergil de ig, uno para cada instagramer del top3)
+ 
+ 3. queremos un tercer dashboard, pero no sabemos con qué rellenarlo... así que lo dejamos como extra por si llegamos. 
+		
